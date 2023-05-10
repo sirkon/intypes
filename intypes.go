@@ -1,21 +1,21 @@
 package intypes
 
 type (
-	// VarInt16 to represent int16 with varint encoding.
-	VarInt16 int16
+	// VI16 to represent int16 with varint encoding.
+	VI16 int16
 
-	// VarInt32 to represent int32 with varint encoding.
-	VarInt32 int32
+	// VI32 to represent int32 with varint encoding.
+	VI32 int32
 
-	// VarInt64 to represent int64 with varint encoding.
-	VarInt64 int64
+	// VI64 to represent int64 with varint encoding.
+	VI64 int64
 
-	// UvarInt16 to represent uint16 with varint encoding.
-	UvarInt16 int16
+	// VU16 to represent uint16 with varint encoding.
+	VU16 int16
 
-	// UvarInt32 to represent uint32 with varint encoding.
-	UvarInt32 int32
+	// VU32 to represent uint32 with varint encoding.
+	VU32 int32
 
-	// UvarInt64 to represent uint64 with varint encoding.
-	UvarInt64 int64
+	// VU64 to represent uint64 with varint encoding.
+	VU64 int64
 )
