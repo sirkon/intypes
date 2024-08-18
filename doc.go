@@ -1,2 +1,3 @@
-// Package intypes define some integer-based types to customize github.com/sirkon/olrgen behaviour.
+// Package intypes define some integer-based types to add github.com/sirkon/fenneg' support for integer types
+// with variable length integers encoding.
 package intypes
